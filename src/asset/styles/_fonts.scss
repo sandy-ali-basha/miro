@@ -1,0 +1,134 @@
+/* -- fonts --  */
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-Light.eot");
+  src: url("../fonts/lato/Lato-Light.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/lato/Lato-Light.woff2") format("woff2"),
+    url("../fonts/lato/Lato-Light.woff") format("woff"),
+    url("../fonts/lato/Lato-Light.ttf") format("truetype"),
+    url("../fonts/lato/Lato-Light.svg#Lato-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-BlackItalic.eot");
+  src: url("../fonts/lato/Lato-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/lato/Lato-BlackItalic.woff2") format("woff2"),
+    url("../fonts/lato/Lato-BlackItalic.woff") format("woff"),
+    url("../fonts/lato/Lato-BlackItalic.ttf") format("truetype"),
+    url("../fonts/lato/Lato-BlackItalic.svg#Lato-BlackItalic") format("svg");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-BoldItalic.eot");
+  src: url("../fonts/lato/Lato-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/lato/Lato-BoldItalic.woff2") format("woff2"),
+    url("../fonts/lato/Lato-BoldItalic.woff") format("woff"),
+    url("../fonts/lato/Lato-BoldItalic.ttf") format("truetype"),
+    url("../fonts/lato/Lato-BoldItalic.svg#Lato-BoldItalic") format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-Bold.eot");
+  src: url("../fonts/lato/Lato-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/lato/Lato-Bold.woff2") format("woff2"),
+    url("../fonts/lato/Lato-Bold.woff") format("woff"),
+    url("../fonts/lato/Lato-Bold.ttf") format("truetype"),
+    url("../fonts/lato/Lato-Bold.svg#Lato-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-Italic.eot");
+  src: url("../fonts/lato/Lato-Italic.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/lato/Lato-Italic.woff2") format("woff2"),
+    url("../fonts/lato/Lato-Italic.woff") format("woff"),
+    url("../fonts/lato/Lato-Italic.ttf") format("truetype"),
+    url("../fonts/lato/Lato-Italic.svg#Lato-Italic") format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-Regular.eot");
+  src: url("../fonts/lato/Lato-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/lato/Lato-Regular.woff2") format("woff2"),
+    url("../fonts/lato/Lato-Regular.woff") format("woff"),
+    url("../fonts/lato/Lato-Regular.ttf") format("truetype"),
+    url("../fonts/lato/Lato-Regular.svg#Lato-Regular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-Black.eot");
+  src: url("../fonts/lato/Lato-Black.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/lato/Lato-Black.woff2") format("woff2"),
+    url("../fonts/lato/Lato-Black.woff") format("woff"),
+    url("../fonts/lato/Lato-Black.ttf") format("truetype"),
+    url("../fonts/lato/Lato-Black.svg#Lato-Black") format("svg");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("../fonts/lato/Lato-LightItalic.eot");
+  src: url("../fonts/lato/Lato-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/lato/Lato-LightItalic.woff2") format("woff2"),
+    url("../fonts/lato/Lato-LightItalic.woff") format("woff"),
+    url("../fonts/lato/Lato-LightItalic.ttf") format("truetype"),
+    url("../fonts/lato/Lato-LightItalic.svg#Lato-LightItalic") format("svg");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Helvetica";
+  src: url("../fonts/halvatica/Helvetica.eot");
+  src: url("../fonts/halvatica/Helvetica.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/halvatica/Helvetica.woff2") format("woff2"),
+    url("../fonts/halvatica/Helvetica.woff") format("woff"),
+    url("../fonts/halvatica/Helvetica.ttf") format("truetype"),
+    url("../fonts/halvatica/Helvetica.svg#Helvetica") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica";
+  src: url("../fonts/halvatica/Helvetica-Bold.eot");
+  src: url("../fonts/halvatica/Helvetica-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/halvatica/Helvetica-Bold.woff2") format("woff2"),
+    url("../fonts/halvatica/Helvetica-Bold.woff") format("woff"),
+    url("../fonts/halvatica/Helvetica-Bold.ttf") format("truetype"),
+    url("../fonts/halvatica/Helvetica-Bold.svg#Helvetica-Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
