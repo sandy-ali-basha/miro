@@ -1,9 +1,8 @@
 import React, { useEffect } from "react";
 import { useTranslation } from "react-i18next";
-import { Button, Col, Container, Input, Row } from "reactstrap";
+import { Button, Col, Container, Row } from "reactstrap";
 
 //* images
-
 import Walmart from "asset/imgs/icons/Walmart_Index_Only.svg.svg";
 import cisco from "asset/imgs/icons/cisco.svg.svg";
 import Volvo from "asset/imgs/icons/Volvo_Index_Only.svg.svg";
@@ -97,9 +96,9 @@ function Home() {
     },
   ];
 
-  // useEffect(() => {
-  //   window.scrollTo(0, 0);
-  // }, []);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
 
   const { t } = useTranslation("index");
 

@@ -1,18 +1,10 @@
 import { _axios } from "interceptor/http-config";
 
-export const _product = {
+export const _Home = {
     index: async () => {
         return _axios
             .get(
-                `user/product/home-products`, {
-                headers: {
-                    lang: ["en", "ar"].includes(
-                        localStorage.getItem("i18nextLng")
-                    )
-                        ? localStorage.getItem("i18nextLng")
-                        : "en"
-                }
-            }
+                `/home/test`
             )
             .then((res) => res.data);
     },
