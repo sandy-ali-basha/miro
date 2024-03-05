@@ -99,7 +99,7 @@ const Footer = () => {
             </div>
           </Col>
         </Row>
-        <p className="w-md-50 fs-11 ps-2">
+        <p className="w-md-100 w-50 fs-11 ps-2">
           {t(
             "Apple, the Apple logo, and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Android, Google Play and the Google Play logo are trademarks of Google LLC."
           )}
